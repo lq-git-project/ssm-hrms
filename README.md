@@ -500,9 +500,3 @@ $(".hrms_logout").click(function () {
   window.location.href = "/hrms/logout";
 });
 ```
-
-## 五、项目代码下载
-最后，将本次项目的代码上传到我的github当中，想要下载的话<a href="">戳这里</a>，如果觉得对你有帮助别忘了在我的github上随手点个star，THX！
-
-----
-2018/03/09 in NJ.
