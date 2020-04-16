@@ -57,7 +57,7 @@ public class Employee {
     public String toString() {
         return "Employee{" +
                 "empId=" + empId +
-                ", empName='" + empName + '\'' +
+                ", empName='" + empName + '\''  +
                 ", empEmail='" + empEmail + '\'' +
                 ", gender='" + gender + '\'' +
                 ", departmentId=" + departmentId + '\'' +
